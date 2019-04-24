@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_berita"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/nav_berita" />
+    <item
+        android:id="@+id/nav_tempat"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="@string/nav_tempat" />
+    <item
+        android:id="@+id/nav_wisata"
+        android:icon="@drawable/ic_favorite_border_black_24dp"
+        android:title="@string/nav_wisata" />
+</menu>
