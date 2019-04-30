@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "747025133870",
+    "firebase_url": "https://lampq-e78fe.firebaseio.com",
+    "project_id": "lampq-e78fe",
+    "storage_bucket": "lampq-e78fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747025133870:android:4633fbca170f350e",
+        "android_client_info": {
+          "package_name": "com.example.lampq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747025133870-apjhq51ea1tgqaea0ksk3k081oc0ed3h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lampq",
+            "certificate_hash": "890bfeb105620655bbdac7b49f6917cd35c3faa4"
+          }
+        },
+        {
+          "client_id": "747025133870-6cbht75tu1mtftj9tr6km7ut46vgb867.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA52xwEbDbEnjZfm0MjcYR-u3ecB0zC81w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747025133870-6cbht75tu1mtftj9tr6km7ut46vgb867.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
