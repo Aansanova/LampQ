@@ -9,4 +9,5 @@
     <color name="colorWhiteTransparent">#ffffff</color>
     <color name="colorBlackTransparent">#3d3b35</color>
     <color name="colorGrey">#e1e5ed</color>
+    <color name="colorOrange">#ed7615</color>
 </resources>

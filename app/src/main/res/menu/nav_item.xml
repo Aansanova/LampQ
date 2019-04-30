@@ -14,4 +14,8 @@
         android:id="@+id/nav_wisata"
         android:icon="@drawable/ic_favorite_border_black_24dp"
         android:title="@string/nav_wisata" />
+    <item
+        android:id="@+id/nav_keluhan"
+        android:icon="@drawable/ic_megaphone"
+        android:title="@string/nav_keluhan" />
 </menu>

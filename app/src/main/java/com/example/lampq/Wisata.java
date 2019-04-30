@@ -1,14 +1,13 @@
 package com.example.lampq;
 
-public class Tempat {
-
+public class Wisata {
     private String nama;
     private String alamat;
     private String jarak;
     private int thumbnail;
 
 
-    public Tempat(String nama, String alamat, String jarak, int thumbnail) {
+    public Wisata(String nama, String alamat, String jarak, int thumbnail) {
         this.nama = nama;
         this.alamat = alamat;
         this.jarak = jarak;
