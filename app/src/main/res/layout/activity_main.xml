@@ -29,15 +29,4 @@
         app:menu="@menu/nav_item">
 
     </android.support.design.widget.BottomNavigationView>
-
-<<<<<<< HEAD
-=======
-    <FrameLayout
-        android:id="@+id/main_frame"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
-
-    </FrameLayout>
-
->>>>>>> e55602b6abbb60ec5d46d9872fc15ef41b613fe5
 </RelativeLayout>

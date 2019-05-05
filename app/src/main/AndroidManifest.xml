@@ -11,7 +11,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Berita"></activity>
+        <activity android:name=".LoginAuth"></activity>
+        <activity android:name=".SignInActivity"></activity>
+        <activity android:name=".Berita" />
         <activity
             android:name=".DetailActivity"
             android:label="@string/title_activity_detail"

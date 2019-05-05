@@ -7,10 +7,7 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-<<<<<<< HEAD
     <string name="direct_me">Direct Me</string>
-
-=======
     <string name="title_activity_detail">DetailActivity</string>
     <string name="large_text">
         "Material is the metaphor.\n\n"
@@ -102,5 +99,7 @@
         "when a user tries to pick up one of cards.\n\n"
     </string>
     <string name="action_settings">Settings</string>
->>>>>>> e55602b6abbb60ec5d46d9872fc15ef41b613fe5
+    <string name="sign_in">Sign In</string>
+    <string name="sign_out">Sign Out</string>
+
 </resources>
